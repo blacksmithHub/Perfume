@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perfume</string>
+    <string-array name="PerfumeArray">
+        <item>Lacoste Booster</item>
+        <item>Bvlgari Man</item>
+        <item>Bvlgari Extreme</item>
+        <item>Polo Black</item>
+        <item>Polo Blue</item>
+        <item>Armani Code</item>
+        <item>Dolce and Gabbana</item>
+        <item>Hugo Boss</item>
+    </string-array>
+</resources>
